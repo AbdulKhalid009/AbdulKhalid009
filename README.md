@@ -1,4 +1,4 @@
-Hello my name is khalid and i need a lot of help in js :)
+Hello my name is Kabeer and i need a lot of help in js :)
 
 
 <!---
