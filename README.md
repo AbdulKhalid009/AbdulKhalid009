@@ -1,4 +1,4 @@
-hello my name is khallid and i need a lot of help in c# and don't know how to use github
+Hello my name is khalid and i need a lot of help in js :)
 
 
 <!---
